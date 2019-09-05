@@ -1,0 +1,1 @@
+This is almost exclusively taken from the fantastic tutorial at [Scotch.io](https://scotch.io/tutorials/authentication-and-authorization-with-flask-login). To them should go all the credit, and to me any blame.
